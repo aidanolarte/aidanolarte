@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hey! 👋 I'm Aidan - here's a lil bit about me!
+
+### Work
+(WIP)
+### Learn
+(WIP)
+## Connect
+(WIP)
+
 
 <!--
 **aidanolarte/aidanolarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
